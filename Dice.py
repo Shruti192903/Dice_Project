@@ -14,7 +14,7 @@ top_line.pack()
 sec_line = tkinter.Label(root, text = "Let's Roll the Dice",fg = "black", bg = "#C0C0C0" , font = "Lucida 25 bold italic")
 sec_line.pack()
 
-dice = ["Diceface1.png","Diceface2.png","Diceface3.png","Diceface4.png","Diceface5.png","Diceface6.png"]
+dice = ["Diceface-1.png","Diceface-2.png","Diceface-3.png","Diceface-4.png","Diceface-5.png","Diceface-6.png"]
 
 image2 = ImageTk.PhotoImage(file = "casino.png")
 label1 = tkinter.Label(root, image =image2 )
